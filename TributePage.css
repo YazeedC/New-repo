@@ -1,0 +1,78 @@
+h1 {
+    color: #F4B947;
+    font-size: 50px;
+    text-align: center;
+    font-family: Russo One;
+  }
+  
+  h2 {
+    color: red;
+    font-size: 25px;
+    text-align: center;
+      font-family: Russo One;
+  }
+  
+  div {
+    text-align: center;
+      font-family: PT Sans;
+    max-width: 500px;
+    margin: auto;
+      color: white;
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    position: relative;
+    border-radius: 10px;
+  }
+  
+  figcaption {
+      font-family: PT Sans;
+    color: black;
+    text-align: center;
+    font-size: 24px;
+      color: white;
+  }
+  
+  #tribute-info {
+    text-align: center;
+  }
+  
+  #list {
+    text-align: center;
+      font-family: PT Sans;
+      color: white;
+  }
+  
+  p {
+    color: blue;
+    text-align: center;
+    font-family: PT Sans;
+      color: white;
+    
+  }
+  #cite {
+    text-align: center;
+      font-family: PT Sans;
+      color: white;
+  }
+  a {
+    color: blue;
+    text-align: center;
+    font-family: PT Sans;
+  color: #F4B947;
+  /*     color: white; */
+  }
+  
+  h3 {
+    text-align: center;
+    font-family: PT Sans;
+    color: white;
+  }
+  
+  body {
+    background-color: #15161B;
+  }
+  
+  
